@@ -1,4 +1,4 @@
-<img width="547" alt="image" src="https://github.com/user-attachments/assets/534bdb96-1299-45d3-9c2b-c914da53cfdb">
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/5d031652-671b-4e96-973b-9d07aa2a1cf6">
 
 - 결제 수단 선택
   - 현금, 카드
